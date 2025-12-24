@@ -114,7 +114,8 @@ CRoute — это прототип веб-сервиса, предназначе
 1) Показывает взаимодействие пользователя с системой.
 2) Структура основных данных системы.
 
-<img width="501" height="701" alt="UML drawio" src="https://github.com/user-attachments/assets/103f434a-1f24-433d-ae18-c277a2da64a8" />
+
+<img width="541" height="671" alt="UML" src="https://github.com/user-attachments/assets/8688a1c1-2431-43d8-a6e7-9432a86869ae" />
 
 
 **2.7. ER диаграмма.**
