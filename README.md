@@ -89,7 +89,8 @@ CRoute — это прототип веб-сервиса, предназначе
 **2.3. Модель в нотации IDEF0.**
 Показывает основное преобразование входных данных в результат.
 
-<img width="502" height="390" alt="IDEFO drawio" src="https://github.com/user-attachments/assets/b8bab56a-a2f5-440f-acef-0db246e2c64d" />
+<img width="825" height="1441" alt="IDEFO drawio (22)" src="https://github.com/user-attachments/assets/fc62c5a0-dd9d-4660-b303-a40e9ff3de10" />
+
 
 
 **2.4. Фрагменты модели в нотации DFD**.
