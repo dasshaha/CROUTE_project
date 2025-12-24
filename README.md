@@ -96,7 +96,7 @@ CRoute — это прототип веб-сервиса, предназначе
 **2.4. Фрагменты модели в нотации DFD**.
 Показывает обмен данными между пользователем, процессом обработки и хранилищем.
 
-<img width="141" height="431" alt="DFD drawio" src="https://github.com/user-attachments/assets/d74ebe1e-13d5-4959-8163-b101afc1a5f2" />
+<img width="1111" height="492" alt="DFD drawio (1)" src="https://github.com/user-attachments/assets/109a13e7-83cc-44f3-b8ed-4634711b0028" />
 
 
 
