@@ -83,7 +83,7 @@ CRoute — это прототип веб-сервиса, предназначе
 **2.2. Ментальная карта.**
 На карте показаны основные компоненты проекта.
 
-<img width="561" height="401" alt="ментальная карта" src="https://github.com/user-attachments/assets/26bad5f0-0f1b-4ae9-a8ac-09c0198e5275" />
+<img width="712" height="459" alt="ментальная карта drawio" src="https://github.com/user-attachments/assets/2f82f1da-6d48-4979-a132-020342d32346" />
 
 
 **2.3. Модель в нотации IDEF0.**
